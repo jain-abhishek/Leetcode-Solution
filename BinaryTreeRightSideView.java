@@ -16,6 +16,7 @@ public class BinaryTreeRightSideView {
 		
 		BinaryTreeRightSideView obj = new BinaryTreeRightSideView();
 		List<Integer> resp = obj.rightSideView(root);
+		
 		System.out.println(resp);
 	}
 
