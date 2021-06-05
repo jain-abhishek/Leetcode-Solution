@@ -15,4 +15,9 @@
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [CombinationSum.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/CombinationSum.java) | Apply DP, its a knapsack variation. After memoization go bottom up recursively |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [CombinationSum_1.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/CombinationSum_1.java) | Other soln: apply BFS, have to maintain a separate list for each node at every level |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [ValidateBinarySearchTree.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ValidateBinarySearchTree.java) | Apply pre order traversal and keep comparing if we find lesser than previous max. |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [RangeSumofBST.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/RangeSumofBST.java) | Apply in order traversal |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [FlippingImage.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/FlippingImage.java) | |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [MergeTwoBinaryTrees.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MergeTwoBinaryTrees.java) | Apply in order traversal for both trees |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [MergeTwoBinaryTrees_1.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MergeTwoBinaryTrees_1.java) | Apply BFS for both trees |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [RobotReturntoOrigin.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/RobotReturntoOrigin.java) | |
 
