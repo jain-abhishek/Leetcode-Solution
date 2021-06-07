@@ -22,4 +22,5 @@
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [RobotReturntoOrigin.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/RobotReturntoOrigin.java) | |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [ReverseLinkedList2.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ReverseLinkedList2.java) | |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Permutations.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/Permutations.java) | |
-
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [HammingDistance.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/HammingDistance.java) | |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [SubdomainVisitCount.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/SubdomainVisitCount.java) | |
