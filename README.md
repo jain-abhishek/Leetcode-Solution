@@ -36,3 +36,6 @@
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [NumberofConnectedComponentsinanUndirectedGraph_bfs.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/NumberofConnectedComponentsinanUndirectedGraph_bfs.java) | Create graph and apply bfs. |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ContinuousSubarraySum.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ContinuousSubarraySum.java) | Math: c = a % k, c = b % k, so we have a % k = b % k |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ContinuousSubarraySum_DP.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ContinuousSubarraySum_DP.java) | Use DP | 
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [SubarraySumEqualsK.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/SubarraySumEqualsK.java) | Cumulative sum of prefixes and storing them into map | 
+
+

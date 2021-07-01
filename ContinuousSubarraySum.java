@@ -24,11 +24,11 @@ public class ContinuousSubarraySum {
 
 		for(int i=0;i<nums.length;i++){
 			sum = (sum + nums[i]) % k;
-			if((i>=1 && sum == 0) || map.containsKey(sum) && map.get(sum) != i-1){
+			if((i>=1 && sum == 0) || map.containsKey(sum) && map.get(sum) != i-1){ // condition: map.get(sum) != i-1 is important because 2 consecutive nums have to be sum up. check: 1,2,12 k=6 
 				return true;
 			}
 			if(!map.containsKey(sum)) { // this is important
-				map.put(sum % k, i);
+				map.put(sum, i);
 			}
 		}
 
