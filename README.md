@@ -39,7 +39,7 @@
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [SubarraySumEqualsK.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/SubarraySumEqualsK.java) | Cumulative sum of prefixes and storing them into map | 
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [MinimumSizeSubarraySum.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumSizeSubarraySum.java) | 2 pointers, running sum until sum becomes greater than target | 
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero.java) | Its target - (Maximum Size Subarray Sum), used 2 pointers |
-| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero_1.java) | Its target - (Maximum Size Subarray Sum), used map | 
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero_1.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero_1.java) | Its target - (Maximum Size Subarray Sum), used map | 
 
 
 
