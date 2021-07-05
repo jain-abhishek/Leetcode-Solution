@@ -37,5 +37,9 @@
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ContinuousSubarraySum.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ContinuousSubarraySum.java) | Math: c = a % k, c = b % k, so we have a % k = b % k |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ContinuousSubarraySum_DP.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/ContinuousSubarraySum_DP.java) | Use DP | 
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [SubarraySumEqualsK.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/SubarraySumEqualsK.java) | Cumulative sum of prefixes and storing them into map | 
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [MinimumSizeSubarraySum.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumSizeSubarraySum.java) | 2 pointers, running sum until sum becomes greater than target | 
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero.java) | Its target - (Maximum Size Subarray Sum), used 2 pointers |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero_1.java) | Its target - (Maximum Size Subarray Sum), used map | 
+
 
 
