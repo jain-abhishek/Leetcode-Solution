@@ -41,5 +41,5 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero.java) | Its target - (Maximum Size Subarray Sum), used 2 pointers |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [MinimumOperationstoReduceXtoZero_1.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/MinimumOperationstoReduceXtoZero_1.java) | Its target - (Maximum Size Subarray Sum), used map | 
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [SubarrayProductLessThanK.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/SubarrayProductLessThanK.java) | Sliding window | 
-
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [LongestSubstringWithoutRepeatingCharacters.java](https://github.com/jain-abhishek/leetcode-solutions/blob/master/LongestSubstringWithoutRepeatingCharacters.java) | Sliding window | 
 
