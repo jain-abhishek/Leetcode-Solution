@@ -139,6 +139,7 @@ public class AccountsMerge {
     	}
     	
         while(connections.get(email) != email) {
+        	connections.put(email, connections.get(connections.get(email))); //path compression
 			email = connections.get(email);
 		}
 		
